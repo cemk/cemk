@@ -1,4 +1,6 @@
-### Hi there 👋
+### Product designer. Sometimes developer too.
+
+Currently working on ⌨️[LearnSomeHTML.com](https://learnsomehtml.com) and 🖌️[some.design](https://some.design).
 
 <!--
 **cemk/cemk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
